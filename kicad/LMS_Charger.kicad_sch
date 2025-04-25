@@ -4393,7 +4393,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R_{prog}"
+		(property "Value" "2k2"
 			(at 187.96 74.9299 0)
 			(effects
 				(font
